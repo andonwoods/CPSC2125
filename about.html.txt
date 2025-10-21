@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About – Lens & Light</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>About Me</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="projects.html">Projects</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="bio">
+      <p>I’m a documentary and street photographer based in Georgia, passionate about capturing raw emotion and everyday beauty. My work blends storytelling with visual composition to evoke curiosity and connection.</p>
+      <img src="images/avatar.jpg" alt="Photographer Avatar">
+    </section>
+
+    <section class="personal">
+      <h3>Hobbies & Skills</h3>
+      <ul>
+        <li>Street photography</li>
+        <li>Photo editing (Lightroom & Photoshop)</li>
+        <li>Visual storytelling</li>
+        <li>Teaching composition techniques</li>
+      </ul>
+    </section>
+  </main>
+
+  <aside>
+    <p>“A good photo tells you something. A great photo makes you feel something.”</p>
+  </aside>
+
+  <footer>
+    <p>Visit <a href="https://www.magnumphotos.com/">Magnum Photos</a> and <a href="https://www.photographylife.com/">Photography Life</a></p>
+  </footer>
+</body>
+</html>

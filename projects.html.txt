@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Projects – Lens & Light</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Photography Projects</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="projects.html">Projects</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="projects">
+      <article class="project">
+        <h3>Faces of the City</h3>
+        <p>A portrait series capturing candid expressions of strangers in urban environments.</p>
+        <a href="https://www.streetphotography.com/">View more</a>
+      </article>
+
+      <article class="project">
+        <h3>Light & Shadow</h3>
+        <p>Exploring contrast and composition through natural light in architectural spaces.</p>
+        <a href="https://www.archdaily.com/">View more</a>
+      </article>
+
+      <article class="project">
+        <h3>Rural Rhythms</h3>
+        <p>Documenting life in small towns across the South, focusing on texture and routine.</p>
+        <a href="https://www.nytimes.com/section/lens">View more</a>
+      </article>
+    </section>
+  </main>
+
+  <aside>
+    <p>Each project is a study in light, emotion, and environment.</p>
+  </aside>
+
+  <footer>
+    <p>Explore more at <a href="https://www.nationalgeographic.com/photography/">National Geographic Photography</a> and <a href="https://www.dpreview.com/">DPReview</a></p>
+  </footer>
+</body>
+</html>

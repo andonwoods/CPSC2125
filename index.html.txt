@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Home – Lens & Light</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Lens & Light</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="projects.html">Projects</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>Welcome to My Photography Portfolio</h2>
+      <p>Capturing moments, moods, and stories through the lens. Explore my work and learn how light, composition, and timing come together to create powerful images.</p>
+    </section>
+
+    <section class="highlight">
+      <p>“Photography is the story I fail to put into words.” – Destin Sparks</p>
+    </section>
+  </main>
+
+  <aside>
+    <p>Featured style: Urban minimalism with natural light.</p>
+  </aside>
+
+  <footer>
+    <p>Explore more at <a href="https://www.nationalgeographic.com/photography/">National Geographic Photography</a> and <a href="https://www.dpreview.com/">DPReview</a></p>
+  </footer>
+</body>
+</html>
